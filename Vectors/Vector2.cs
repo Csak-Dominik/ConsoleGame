@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace ConsoleGame.Vectors
+﻿namespace ConsoleGame.Vectors
 {
     /// <summary>
     /// A 2D vector.
